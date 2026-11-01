@@ -1,0 +1,8 @@
+# Java bytecode produced by javac
+*.class
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
